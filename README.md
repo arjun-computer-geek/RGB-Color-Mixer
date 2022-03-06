@@ -1,4 +1,4 @@
-# This is a simple Html, css, And javaScript.
+# This is a simple Html, css, And javaScript [RGB MIXER}](https://arjun-computer-geek.github.io/RGB-Color-Mixer/).
 * Html
 * Css
 * Javascript
